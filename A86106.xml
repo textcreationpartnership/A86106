@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arch-cheate, or the cheate of cheats: or a notable discovery of some parts of the mystery of iniquitie, plainely shewing that this is the prelates warre, managed under the Kings name, only to advance the hierarchie above the temporality, yet leave them some externalls to deceive all sides, and all sorts, a choice peece of gullery trimely [sic] set out. ...</title>
+            <author>S. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86106</idno>
+            <idno type="STC">Wing H116</idno>
+            <idno type="STC">Thomason E257_5</idno>
+            <idno type="STC">ESTC R210041</idno>
+            <idno type="EEBO-CITATION">99868875</idno>
+            <idno type="PROQUEST">99868875</idno>
+            <idno type="VID">159223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159223)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 44:E257[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arch-cheate, or the cheate of cheats: or a notable discovery of some parts of the mystery of iniquitie, plainely shewing that this is the prelates warre, managed under the Kings name, only to advance the hierarchie above the temporality, yet leave them some externalls to deceive all sides, and all sorts, a choice peece of gullery trimely [sic] set out. ...</title>
+                  <author>S. H.</author>
+               </titleStmt>
+               <extent>8 p   </extent>
+               <publicationStmt>
+                  <publisher>printed for M.W. at Grays-Inne Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>October 4. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A1v line 5: S.H.</note>
+                  <note>With t.p. woodcut.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:159223:1" rendition="simple:additions"/>
+The Arch Cheate, or the Cheate of Cheats: OR A notable diſcovery of ſome parts of the myſtery of iniqui<g ref="char:EOLhyphen"/>tie, plainely ſhewing that this is the Prelates Warre, managed under the Kings Name, only to advance the Hierarchie above the temporality, yet leave them ſome externalls to deceive all ſides, and all ſorts, a choice peece of gullery trimely ſet out.</p>
+            <l>Cauſe we are more for the Senſes then Senſe.</l>
+            <l>Thus our conceptions we doe commence.</l>
+            <figure>
+               <figDesc>depiction of puppet show</figDesc>
+               <p>
+                  <list>
+                     <item>P. <hi>The Puppets.</hi>
+                     </item>
+                     <item>F. <hi>A fellow poin<g ref="char:EOLhyphen"/>ting.</hi>
+                     </item>
+                     <item>C. <hi>All ſorts of common people.</hi>
+                     </item>
+                     <item>H. <hi>The countrey Husband-man or Farmer.</hi>
+                     </item>
+                     <item>B. <hi>The Prelate ordering of all.</hi>
+                     </item>
+                     <item>
+                        <hi>K. The King.</hi>
+                     </item>
+                     <item>N. <hi>Nobles.</hi>
+                     </item>
+                     <item>S. <hi>The Shark or Cavaleer in<g ref="char:EOLhyphen"/>forcing the Damſell.</hi>
+                     </item>
+                  </list>
+               </p>
+               <lg>
+                  <l>The voting <hi>Puppets</hi> each eye deſcries,</l>
+                  <l>But its <note n="1">The Wiſe ſee further, then with eyes.</note> 
+                     <hi>Sophia</hi> hath the ſeing ey<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</l>
+                  <l>
+                     <note n="2">Common underſtandings reach not things, things out reach them.</note> 
+                     <hi>Plebeians</hi> move in loweſt Sphere,</l>
+                  <l>But its wiſdome mouts the higheſt career.</l>
+                  <l>The <note n="3">To the Sects and the rude people all is attributed.</note> 
+                     <hi>Puppets</hi> ſeemingly do braule,</l>
+                  <l>But its <hi>Mercuriall <note n="4">But its the crafty Prelates, and their Athiſticall Faction under ſeverall ſpecies, pretences ſets all together by the eares.</note> Hocus</hi> governs all.</l>
+                  <l>Though <note n="5">Wiſdome not craft ſhould governe.</note> 
+                     <hi>Pallas</hi> ſhould, whoſe dues <note n="6">All excellencies belonging to wiſdom, and the wiſe.</note> the golden ball.</l>
+                  <l>But the goddeſſe <note n="7">In a threatning way, and in time of remedy, In<g ref="char:EOLhyphen"/>ſtice ſhall be told of all her prankes.</note> 
+                     <hi>Aſtrea</hi> ſhall know all.</l>
+               </lg>
+            </figure>
+            <p>London printed for <hi>M. W.</hi> at Grayſ-Inne Gate, <hi>October</hi> 4. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <p>
+               <pb facs="tcp:159223:2"/>
+Courteous Reader, here is but a little Poetrie, and yet its lame of its fee<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <note place="margin">Not to faile when all faile were to be ſin<g ref="char:EOLunhyphen"/>gular, which is the greateſt failing.</note> let thy ingenuitie relieve it, for its thy only ſtrength to beare with its weak<g ref="char:EOLhyphen"/>neſſe, and its therefore weake to trie thy ſtrength, and it hath therefore failed that it might not faile.</p>
+            <closer>
+               <signed>S. H.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>The Arch Cheate, OR The Cheate of Cheates: OR A notable Diſcoverie of ſome parts of the My<g ref="char:EOLhyphen"/>ſtery of Iniquity, plainely ſhewing, that this is the Prelates War, mannaged under the Kings name, only to advance the Hierarchy, above the Temporality, Yet leave them, ſome ex<g ref="char:EOLhyphen"/>ternalls, to deceive all ſides and all ſorts, a choiſe peece of Gullery trimely ſet out.</head>
+            <p>Writ at the beginning of theſe troubles, but occaſionally confind till now.</p>
+            <p>
+               <seg rend="decorInit">T</seg>Here is a Crew which <note n="*" place="margin">In their ay<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es and in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entions &amp; are Athiſts alſo.</note> crowes and crownes them<g ref="char:EOLhyphen"/>ſelves with Roſe-Buddes of bewtie, ſweetneſſe and delight (of with the Prelates and popiſhly affected, irreligious religious men are chiefe) who ayming at greatneſſe and all kinde of licentiouſneſſe, <hi>&amp;c.</hi> and withall to advance thereto nimbly alſo without toyle yea to Soveranize and King themſelves and go<g ref="char:EOLhyphen"/>verne kingdomes, doe breake through all lawes, <hi>De<g ref="char:EOLhyphen"/>vine, Humane, Morall, Rationall, &amp;c.</hi> to attaine thereto.</p>
+            <p>2. This to bring about, they finde lies in the interreſſing themſelves into the favours and good opinions of Princes, under the pretence of amplifying their greatneſſe and Prerogatives, <hi>&amp;c.</hi> next by gaining all the powers into their hand as for the emptie titular titles, and ſome externalls, they leave them to the tem<g ref="char:EOLhyphen"/>porall
+<pb n="3" facs="tcp:159223:2"/>
+* Laike <hi>Kings</hi> and <hi>Peeres</hi> to collour the buſineſſe, that the Cheat may not <note place="margin">1. Thus they render them in contempt.</note> be ſeene, <hi>&amp;c.</hi>
+            </p>
+            <p>3. Their owne names will not carry it, they wanting Law, Right, Title and <hi>opinion<g ref="char:punc">▪</g> &amp;c.</hi>
+            </p>
+            <p>4. Beſides they muſt not appeare in the action, but lie cloſe ſnugge, and cloſe hid as doth in ſhewes the lurking ſpirit that guideth the oculer motions, which <note place="margin">2. As in Pup<g ref="char:EOLhyphen"/>pet playes or other motions under neath guides all. The Kings Name, Hand, Perſon, &amp;c. dec<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and conquers the Kingdome. IGNOTO.</note> are onely ſeene to act all, and all to them is attributed, but cunning <hi>Hocus</hi> playes his prankes under boord.</p>
+            <p>5. With <hi>Princes</hi> then they tamper, who have law, right and title on their ſide, and opinion too, that fooliſh goddeſſe, and goddeſſe of fooles, their names they advance, magnifie, yea deifie, <hi>&amp;c.</hi> but proſtrate prerogative, <hi>&amp;c.</hi>
+            </p>
+            <p>6. It takes Herod-like with ſome too much with all to their falls.</p>
+            <p>7. <hi>More</hi> Princes <hi>fall in Court by Flatterrers charmes.</hi>
+            </p>
+            <p>
+               <hi>Then in the field by the Averſaries armes, &amp;c.</hi>
+            </p>
+            <p>8. On they goe and pinacle Princes with Prerogatives about God, but ſure they will be to mount with them, as did the Devill with our <hi>Saviour:</hi> and then <note place="margin">3. Their pro<g ref="char:EOLhyphen"/>phane Hierar<g ref="char:EOLhyphen"/>chie.</note> on, with condition of his diſmounting, proſtration and 3 worſhipping beaſtly monſters, with <hi>ſeaven Heads and tenne Hornes,</hi> they will doe wonders, if not <note place="margin">4. The riches powers and honours of Kingdomes:</note> done before they come,—why, they will give him all the 4 Kingdomes of the Earth, and ſubdue the 5 Nations to him, with an Iron Rod, or rather than faile—6 <hi>with a flaile.</hi>
+            </p>
+            <p>9. Great is the Temple of the goddeſſe <hi>Diana,</hi> but were it not for her ſilver <note place="margin">5. England. Scotland. Ireland.</note> Puppetts the godleſſe gods and her Temple might goe fiddle—ſo might Pre<g ref="char:EOLhyphen"/>rogatives, <hi>&amp;c.</hi> 
+               <note place="margin">6. Any way.</note>
+            </p>
+            <p>10. Theſe graceleſſe youngſters, 7 gracious yet with Princes, and are ſee<g ref="char:EOLhyphen"/>mingly <note place="margin">7. Ignorant of their Rogery.</note> very officious to accommodate them with <hi>Honour, Greatneſſe, Maje<g ref="char:EOLhyphen"/>ſtie, &amp;c.</hi>
+            </p>
+            <p>11. <hi>A Golden baite, but the forked hooke appeares not.</hi>
+            </p>
+            <p>12. By this they attaine to be their Counſellors and next the betruſt of pla<g ref="char:EOLhyphen"/>ces of command and power which was the white they aymed at, as the onely way to King themſelves, and depoſe Princes, oppoſe others.</p>
+            <p>13. Theſe they beſtow into hands of their owne faction, ſuch as can flatter and abuſe Princes out of their prerogatives, as well as themſelves<hi>—Birds of a Feather,</hi>
+            </p>
+            <p>14. Now who but theſe are the only men with 8 <hi>Kings</hi> I and <hi>Queens</hi> to, <note place="margin">8. Ignorant, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> afore of their Rogery.</note> Oh they are wilie Mercuries and have curious blandiſhments to inſinuate in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o and infatuate all ſorts, and fatten themſelves, <hi>&amp;c.</hi>
+            </p>
+            <p>15. Well Princes conceive the power in their owne hands, but <hi>P. O.</hi> for that, its the 9 Prelates prize, of which he muſt not know any thing till their ends bee <note place="margin">9. Or the Prieſts bit. 1 Sam. 2. 13, 14.</note> compaſſed</p>
+            <p>16. As for him he may goe 10 ſleep, ſport, hunt, or tennis it, they will order matters well enough for his greatneſſe, and renowne if ill enough bee well e<g ref="char:EOLhyphen"/>nough, <note place="margin">10. Out geer<g ref="char:EOLhyphen"/>ers of Prince<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo all ſorts.</note> 
+               <hi>&amp;c.</hi>
+            </p>
+            <p>17. The Popiſh government under the cheating name of Religion they main<g ref="char:EOLhyphen"/>ly ayme at, but mum not a word of either not intentions but pranct up preten<g ref="char:EOLhyphen"/>tions
+<pb n="4" facs="tcp:159223:3"/>
+like gaudy <hi>Dianah</hi> muſt gadde abroad to bewitch the fooliſh <hi>Sechemites</hi> but <hi>Simeon</hi> and <hi>Levi</hi> brothers of iniquity drive on their deſignes like furious <hi>Jehu,</hi> to circumvent the credulous <hi>Sechemites,</hi> with univerſall Ruine. <note place="margin">The wicked Layty and Clergy of all ſorts.</note>
+            </p>
+            <p>18. The Kings name ſtill carries out all things, but he is kept ignorant of whatſoever is oftenſive to his nature or diſpoſition, or elſe they doe palliate it with pretexes qualifications, &amp;c.</p>
+            <p>19. They * raile of all their adverſaries, from acceſſe or prepare antidores againſt <note place="margin">by threatnings ſo by keeping them at diſ<g ref="char:EOLhyphen"/>tance, as with a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ile<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> their poyſon as againſt beliefe, infidelity and villefie with names to contemptable<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>20. But with the people, they magnifie an implicit faith believe as the Church believes the trumpe of Cheats, &amp;c.</p>
+            <p>21. Mountaine promiſes are made, of <hi>Iuſtice libertie lawes,</hi> and Religion, but not a duſt or graine made good, except jering as Children and Fooles for their eaſie cre<g ref="char:EOLhyphen"/>dulity.</p>
+            <p>Its glory to betray any way diſglory to be betrayed.</p>
+            <p>22. If Robbing, murchering, ravaſhing, yea all kind of injuſtice be juſtice than none more juſt more faithfull in performance, twiſe twelve to the duſſen.</p>
+            <p>23 Quarrells are pict, pretences found, on purpoſe to rout out all opoſers either Religious or Morraliſts.</p>
+            <p>24. It is eaſie to finde a ſtaffe to beat a Dogge, <hi>with the quarrelſome.</hi>
+            </p>
+            <p>Its as eaſie to finde a Dogge for a ſtaffe.</p>
+            <p>25. Other pretences are found to raiſe Armes, any thing is juſt with the power<g ref="char:EOLhyphen"/>full any thing ſeemes ſoe with the ſimple.</p>
+            <p>26. Some on hopes, promiſes, preferments rewards, offices, and others, a licenti<g ref="char:EOLhyphen"/>ous <note place="margin">Nobles. Gen<g ref="char:EOLhyphen"/>try, Commons all ſorts com<g ref="char:EOLhyphen"/>ply.</note> libertine courſe of life others errors of judgment, Scruples of conſcience, opini<g ref="char:EOLhyphen"/>on pretences of one kind or other.</p>
+            <p>Moſt, a fooles paradice—here.</p>
+            <p>or a ports Elizium—hereafter.</p>
+            <p>28. What ſhould I ſay it asketh an eternity to rectifie all theſe giddie braines.</p>
+            <p>29. If they be not Traitors, Rebells, Murtherers, Theeves, and punſhable as ſuch here, and damnable hereafter who are on the offenſive ſide, and ſight againſt Re<g ref="char:EOLhyphen"/>ligion the liberty of the people, and priveledges of Parliament all eſtabliſhed by law. The name of a King is ſo dazeling that it proſtrates all behoulders—except<hi>—Bell</hi> whom <hi>Danill</hi> muſt proſtrate.</p>
+            <p>30. Beautie in Heaven and Earth this grace doth win. <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnoto.</note>
+            </p>
+            <p>It ſupplyes rigour, and it leſſens ſinne &amp;c.</p>
+            <p>31. Souldiers are raiſed, why, <hi>Iohn</hi> for the King, ſo all, and who nor, they ſee none other, they ſpie not Hocus under the Board, nor that <hi>Ioabs</hi> hand is in all this they are light Angells but not Angells of light.</p>
+            <p>32. If monyes be wanting, then <hi>Nimrod</hi> like that mighty hunter plundring, rob<g ref="char:EOLhyphen"/>bing whole Countries, Counties to mount their Babell battlements, paralell with thoſe of Heaven, is lawfull and under the name of warring to perpetrat any villany is excellent villany—if any villany be <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcellent.</p>
+            <p>33. That which even now was a hanging matter to <hi>doe,</hi> is now a hanging matter not to doe.</p>
+            <p>
+               <pb n="5" facs="tcp:159223:3"/>
+Thus a moment, can Invert, pervert circularly. <note place="margin">For them<g ref="char:EOLhyphen"/>ſelves in the Kings name.</note>
+            </p>
+            <p>34. Out goes Summons, Proclamations, Threats &amp;c. to amate awe, &amp;c. Trained, Bands comes in as if to the Goulden Septer—poore folkes, Hocus is to hard for you, its to the Croſiers ſtaffe which like Muſes rod hath champt up the Septer, and now begines with its cammocke noſe to catch hold of them as did the buſh of <hi>A<g ref="char:EOLhyphen"/>blahams Ram,</hi> they are plundered, they fleed of their fleeces as of Horſe, Armes <note place="margin">Iudas is no Iudas to this Judas.</note> money, and ſent away like a pilde ſheepe, or as a Dogge with his tailo clapt be<g ref="char:EOLhyphen"/>twixt his leggs.</p>
+            <p>35. Horſe, Armes, money, throng in as if to homage it to the burniſhed throne which ſo dazeleth and a ſtoniniſheth all behoulders that they ſpie not lurking Hocus the <hi>Iudas</hi> who for thirty pence will fell his Maſter and all his Deſciples—grinning like a <hi>Satier</hi> or as <hi>Moſſe</hi> his Mare ſimpered when ſhe eat thiſtles to ſee <note place="margin">of the wiſe.</note> theſe ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> infatuated fooles purchaſe themſelves halters, manacles, fetters at ſo deare a <note place="margin">He cannot helpe it He is their Priſoner Jeering Hocus</note> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, and like <hi>Salom us</hi> fooles, goe to the Stocks for correction.</p>
+            <p>36. If the Throne conquer, yet Hocus is victor, who ſliely conveyes away the throne and ſets his treſſells in the place nimbly over layning them wiith a wat<g ref="char:EOLhyphen"/>chet covering imbrodered with goulden Floure deuces, and as nimbly claps a Mi<g ref="char:EOLhyphen"/>ter the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eon inſtaed of a Crown all ſo dexterouſly handled as uneſpied of any but <note place="margin">Glorious Titles &amp;c.</note> the wiſe <note n="*" place="margin">Bribes are promiſed in the Kings name to be<g ref="char:EOLhyphen"/>tray thus that Fort Caſtle, &amp;c. and its all by theſe Trai<g ref="char:EOLhyphen"/>tors for them<g ref="char:EOLhyphen"/>ſelves, they rob to pay the bribe or paies it, and 10. times more out of the pla<g ref="char:EOLhyphen"/>ces delivered up to them <g ref="char:leaf">❧</g> Virtue that is power is gon from me. For you ſhall he kept under like beaſts by the ſword and with implicit factions, Law, but will and that of batba<g ref="char:EOLhyphen"/>rous villanes</note> 
+               <hi>Sophia,</hi> whoſe intentions diſcovers the cloven head of the Miter juſt like that of the Divels foote out ſhe cries of the cheat, Oh you fooles how long will you continue in your follie but all in vaine as I doe heare, for fooles though brayed in Morters will not forſake their folly, nor will deafe <hi>Adders</hi> heare charme you ne<g ref="char:EOLhyphen"/>ver ſo wiſely.</p>
+            <p>37. Now they ſoveragnize it yet, the Kings name colours all still, I and now he beginnes to colour it alſo with anger and ſhame to ſe the gullery but * noe force patience, perforce, he is as faſt as Mars and Venus in Vulcans weary net, the more hee ſpraules and kickes, the more he is intangled * at this, ſlie * Mercury laughs a maine but uneſpſed of any, but only the wiſe * <hi>Sophia</hi> who ſtill carries out, but is not heard, Oh you fooles &amp;c.</p>
+            <p>38. Yet ex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ernalls are allowed as gay as the Chamblet ribbonds, Hocus pulls out of his mouth, to delude the fillie Spectators.</p>
+            <p>39. So have I ſeene at Childrens feſtivalls the gaudie King and Queene follow<g ref="char:EOLhyphen"/>ed by an awfull blacke Coat neither crowned nor Robed, yet well maced who cold at pleaſure; though a pawne give Checke mate to both <hi>Rex et Regina inbeati.</hi>
+            </p>
+            <p>41. Great matters are promiſed, hoped for as a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> * but who ſhall now force to performance, they are Atheiſts, yea worſe, not Moraliſts, not any Bonds, Oathes, lies will hold any more then Samſons, Hairlaces fillets, or head-bands, &amp;c. you challenge them of this and that, &amp;c except <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave exclaime what care they, they know you not, how now, away, avant your workers of Iniquity.</p>
+            <p>42. Helpe o King a railes not how can I ſaith he ſeeing that the Lord Prelat plea<g ref="char:EOLhyphen"/>ſeth not to looke upon either of us.</p>
+            <p>43. Is not this fine that you have unkinged your King and enſlaved yourſelves and your poſterities to the forked Miter, inſtead of the arched Crowne, and muſt now aske and wait for what was once your owne, but it may be never ſhall bee.</p>
+            <p>
+               <pb n="6" facs="tcp:159223:4"/>
+44. All are their Priſoners and Captives from the throne to the cottage, not Kings <note place="margin">The Govern<g ref="char:EOLhyphen"/>ment of Spain and France is in the Hierar<g ref="char:EOLhyphen"/>chie their <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is, not the Kings.</note> not Nobles, not Gentry; not any are free, but lie at their mercy for favours or frowns.</p>
+            <p>45. And now are the commons of England putting on Canvis Breeches and woodden ſhooes, and the Peeres are but ſo, <hi>ad placitum</hi> the Gentry, and are but Gentiles an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aliants to the Common-weale o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Iſraell there.</p>
+            <p>46. Former freedome and liberty—for like to fooliſh and prophane <hi>Eſau,</hi> all ſort and all degrees have ſold their birth rightes for a Meſſe of Pottage (as red as the ſloud of Martyrs.</p>
+            <p>47. Certaine 21 things called religious men, murther, ſteale, rape, oppreſſe, what not, by their temporall agents, who act all, like the apparent Pupitts, but while <note place="margin">As the Popiſh Prelates.</note> Mercurie ſtill playes his prankes under-board, or ſlinkes behinde the Curtaine, like a ſnarling Curre.</p>
+            <p>48. Then laſtly they jeere to ſee how finely with the Kings names have S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ale, ſhewes, promiſes, perſonall preſence, pro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſts, threats, and flowriſhes, meſſengers, <note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Nati<g ref="char:EOLhyphen"/>ons put up this. I am of opini<g ref="char:EOLhyphen"/>on whilſt the K. is in ſuch <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ckſters handling, no<g ref="char:EOLhyphen"/>thing ſhould <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, but refeld with ſcorne, as from theſe, &amp;c Let not our Nobles and Gen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry, nor the Scot alſo. Flatter they doe, uſing the Kings name O this our worthy Sub<g ref="char:EOLhyphen"/>ject, &amp;c. To raiſe, pre<g ref="char:EOLhyphen"/>fer, conferre honour as they l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, then jeere <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the Gulles that the King doth all, and its themſelves by him to purchaſe the Kingdome. O let reſpit be til convincement, which doth in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>cement is juſt.</note> 
+               <hi>&amp;c.</hi> they have befooled all ſorts, out of their Religion, Lawes Liberties, and eſtates each one holding what they have of them ſimply: nothing in fee-ſimple, and <hi>ſo ſimpletons all are.</hi>
+            </p>
+            <p>49. Now <hi>Eſau</hi> his rough hands gripe like a <hi>Griffen &amp;c,</hi>
+            </p>
+            <p>50. In the name of forraigne Princes ayd comes in, as if to Princes, their mu<g ref="char:EOLhyphen"/>tuall names, colours, all but it is oft from faction to faction from Cheater to Chea<g ref="char:EOLhyphen"/>ter, and the poore Princes are prund of all, O you Princes how long will you ſuffer your ſelves to be gulled of your Prerogatives, under pretence of maintaining Pre<g ref="char:EOLhyphen"/>rogative, is it not time to give over theſe wilely beguiles?</p>
+            <p>51. Truſt not I ſay, your lives, nor your Poſterities in the hands of Traytors, Rebells, to whom if you comply not, they will ſend you packing—and not com<g ref="char:EOLhyphen"/>ply, but deſie, <hi>&amp;c.</hi>
+            </p>
+            <p>52. Suffer their King, ſo themſelves to be overtopt by the Prelacie once more, and the government tranſlated to the Hierarchy, ſhall their wiles, ſuggeſtions, and pretences ſo far delude as not to ſee, it its not pretences, but by-intentions w<hi rend="sup">ch</hi> they ſteere to, rowſe up your ſpirit and quicken your underſtandings and vindicate your King and your ſelves, and your Country from their inſlavements, and redeeme your ſelves from their jeers, ſerious inſulations, down with them, and for other matters ſettle with Wiſedome in its opportunity.</p>
+            <p>53. Call to minde the miſeryes, the Iriſh, ſo this Nation have indured by their meanes.</p>
+            <p>54. Be as faithfull to your country, as the Scotts to theirs.</p>
+            <p>55. As the ten Tribes to one poore wronged Levit.</p>
+            <p>56. Are we not your Brethren, fleſh of your fleſh, bone of your bones.</p>
+            <p>57. And for Religious ſeverity which oweth all ſorts. If you dare truſt a mortall ſuch diſpenſations ſhall be found as ſhall content all ſides without gaine ſaying, though nothing remove mean then your meane.</p>
+            <p>58. This cruell crew make riddance of, leaſt it rid us all which God and you for bid.</p>
+            <p>
+               <pb n="7" facs="tcp:159223:4"/>
+59. I Proteſt the King and you are abuſed by their ſuggeſtions, their tenents ſo their practiſes are deſtructive to the prerogatives, yea ſafety of Princes, States, Law, then are they thus ſuffered? who ſhould ſuffer.</p>
+            <p>60. What hurt doe the Proteſtants, or ſects in <hi>Holland, France, &amp;c.</hi> are they not faithfull every where ſome follies, humors opinions they Maſſe and hould that are troubleſome but treacherous they are not, they ſtab not, nor poyſon, betray, for<g ref="char:EOLhyphen"/>ſweare, burne fire not downe houſes, Cities, whole Kingdomes, they delight not in blood and maſſacers, as the Papiſts doe, Oh murther them not by neglect, for neglect is murther, Robery, Rape &amp;c.</p>
+            <p>61. I end as did the Levite to the ten Tribes, ſee, conſider, Iudge and give ſentence.</p>
+            <p>62. And doe as in the twentieth of Judges, the Tribes did all at their owne charge for our levite aſſembled, &amp;c.</p>
+            <p>
+               <hi>Read and faile not.</hi>
+            </p>
+            <p>63. They delaid not, but met as one man, and accommodated to right, and re<g ref="char:EOLhyphen"/>venge the injury done to the ſaid one poore Levit, but oh our Levity, &amp;c.</p>
+            <p>64. Forget not then, Oh all you whom it may concerne, as it doth all. who in a<g ref="char:EOLhyphen"/>ny kinde can doe good, leaſt not only a mother in Iſraell, but the mother of Iſraell, yea Iſraell herſelfe be deſtroyed. which God and you forbid, and you will forbid if men you be, that is have the bowells of men, of mercy, and reſolution of manhood in you.</p>
+            <p>Oh why doth not the Kingdome like an inundation, or deluge overwhelme theſe raſcall crew of Egyptian Gipſes.</p>
+            <p>
+               <hi>Leaſt they Cheat the King and State of the Kingdome, and we be a jeare to all Nations. <hi>Vale.</hi>
+               </hi>
+            </p>
+            <div type="summary">
+               <head>A ſhort Summary of the premiſſes for plain Capacities,</head>
+               <p>ALL the Atheiſts, inhumanes, Traytors, Rebells, Rogues Theeves, Cheates, Cutpurſes, Murderers, ſo all idle and lawleſſe perſons of the Kingdom are met together, and have got the King amongſt them to colour, and credit their rogery, his perſon and name they ſeeme to magnifie to the people, the <hi>King,</hi> the <hi>King,</hi> the Lords anoynted, but Jeere, and ſcorne both him, and all Lords, juſt as did the <hi>De<g ref="char:EOLhyphen"/>metrians Diana,</hi> who magnified her only to make themſelves, and as did the Princes abuſe, and overthrow <hi>Darius</hi> and made pretence of godding him, unmade him, and made colour of Prerogating him, precipitated him, <hi>&amp;c.</hi> Theſe now with the Kings, Perſon, Name, Scale, Warrants, Proclamations, Letters, Threats, Meſſengers, <hi>&amp;c.</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aſſe all ſides, eſpecially the ſimple, whoſe opinions, Idolatrize the name and per<g ref="char:EOLhyphen"/>ſons of Kings, and at this advantage the villanous adverſary preſumes, glories, in<g ref="char:EOLhyphen"/>ſults and jeeres. For what ever they have a mind to doe, they doe it, and the King muſt, or they will inforce his perſon, or name, or both to beare it out; Thus Towns, Cities, Forts, <hi>&amp;c.</hi> are ſummond, ſo Horſe, Armes, mony are taken up, as if for the Kings uſe, when it may be he knowes not of it, or knowing, cannot helpe it, injoy all they doe, not he, any thing, but in name, ſo with commands, Proclamations are
+<pb n="8" facs="tcp:159223:5"/>
+abroad &amp; its not the King, but this faction is accommodated, ſcornfully, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they urge, what keep Forts, Towns, and what from your King, Soveraigne. Lo<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Anoynted? cauſe they ſhould be delivered to him, what not obey your King cauſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they would be obeyd, what fight againſt your King! the Lords Anoynted, cauſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they would command, rule, doe all things as they liſt, and have no reſiſtance thus all are fooles, or knaves, or both, and take part with Traitors (as they ſay to ayde the King) but its to keepe him their priſoner. Forraigne Sta<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es are thus gu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, or would gull, for in thinking to ayde the King, they ayde Traytors againſt him, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> politickly intend the King, and ſo ſupport their owne faction againſt him, and the State, thus which ſimple to us, or Knaves, the loyall that fight for to reſcue him, ſeene againſt, <hi>&amp;c.</hi> ſo traiterous, and rebellious, and thoſe true Traytors (cauſe lo<g ref="char:EOLhyphen"/>cally on his ſide) ſeem to fight for him, and they doe ſo indeed, for its to hold him their priſoner, to colour, and credit their Rogery as afore, ſo they are ſeemingly loy<g ref="char:EOLhyphen"/>all, who are moſt abſolute deſolute loyaliſts.</p>
+               <p>Now ſeeing its diſcovered, let fooles Knaves, and Malignants ſee to it, their pre<g ref="char:EOLhyphen"/>tend not, no longer <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o abuſe King and State, and fight, and ſpeake againſt him, in ſeeming to ſpeake. and fight for him, as did <hi>DEMETRIVS Humanis,</hi> and the Princes of <hi>Darius</hi> all birds of the ſame Fether, for neither their bauleing, nor ſophiſticall pretended prate can quit them of being Traitors and Rebells to King and State at large, or content, ſo alſo there are Hypocrites murtherers, theeves and Cheaters, &amp;c. and who are ſo, are baſe, baſe then as they are, they muſt paſſe for, and fooles let them paſſe for who are ſo cheated.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
